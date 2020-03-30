@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BisCore", "BrownieInteractionService\BisCore.csproj", "{8C27E018-DE93-4E57-A179-A593558D4498}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bis", "Bis\Bis.csproj", "{38EB3A68-CC37-4214-8F62-A3B8B9ADBE08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C27E018-DE93-4E57-A179-A593558D4498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C27E018-DE93-4E57-A179-A593558D4498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C27E018-DE93-4E57-A179-A593558D4498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C27E018-DE93-4E57-A179-A593558D4498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38EB3A68-CC37-4214-8F62-A3B8B9ADBE08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38EB3A68-CC37-4214-8F62-A3B8B9ADBE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38EB3A68-CC37-4214-8F62-A3B8B9ADBE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38EB3A68-CC37-4214-8F62-A3B8B9ADBE08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D27DDB47-5909-440C-A7D5-1AD89382E7EB}
+	EndGlobalSection
+EndGlobal
